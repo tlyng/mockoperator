@@ -1,0 +1,7 @@
+domain: example.com
+repo: github.com/tlyng/mockoperator
+resources:
+- group: ship
+  kind: Frigate
+  version: v1beta1
+version: "2"
